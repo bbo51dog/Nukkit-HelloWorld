@@ -1,0 +1,5 @@
+name: Nukkit-HelloWorld
+main: net.bbo51dog.helloworld.Main
+version: 1.0.0
+author: bbo51dog
+api: ["1.0.0"]
